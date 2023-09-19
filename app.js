@@ -45,4 +45,4 @@ const ballMove = () => {
 // ball()
 setInterval(() => {
   ballMove();
-}, 100);
+}, 30);
